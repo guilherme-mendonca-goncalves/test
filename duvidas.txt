@@ -1,0 +1,6 @@
+1º - Não subir página ao concluir compromisso
+2º - Mudar a forma como o ID é colocado
+3º - Adicionar campo de data na lista (seria o prazo final do compromisso)
+4º - Organizar itens pela data mais proxima
+-
+5º - Como fazer rotas entre paginas
